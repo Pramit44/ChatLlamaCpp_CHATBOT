@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-groq
+langchain-google-genai
+langchain-mistralai
+python-dotenv
+langchain_huggingface
+mamba_ssm
+langchain_community
+llama-cpp-python
